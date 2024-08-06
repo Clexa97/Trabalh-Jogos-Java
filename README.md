@@ -1,6 +1,11 @@
 # 🎮 Jogos Simples em Java
 
-Este projeto contém uma coleção de jogos clássicos desenvolvidos em Java, para um trabalho de 3° Periodo:
+Este projeto contém uma coleção de jogos clássicos desenvolvidos em Java, para um trabalho de 3° Periodo, Programação de Computadores II:
+
+## Integrantes:
+- Juliana Ransani
+- Nathan Alves
+- Marcos Gustavo
 
 ## Jogos Disponíveis
 
